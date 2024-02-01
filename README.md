@@ -2,10 +2,6 @@
 Software research and development project on quantum computers
 
 
-[![Linux/Mac/Windows build status](
-   https://circleci.com/gh/dwave-examples/graph-coloring.svg?style=svg)](
-   https://circleci.com/gh/dwave-examples/graph-coloring)
-
 # Graph Coloring
 
 A demo of graph coloring using Leap's hybrid constrained quadratic model (CQM)
