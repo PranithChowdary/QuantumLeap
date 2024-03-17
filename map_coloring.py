@@ -143,7 +143,7 @@ if __name__ == "__main__":
         input_shp_file = 'shp_files/canada/canada.shp'
     else:
         print("\nUSA map coloring demo.")
-        input_shp_file = 'shp_files/usa/usa.shp'
+        input_shp_file = 'shp_files/USA/usa.shp'
 
     state_records, state_neighbors = get_state_info(input_shp_file)
 
